@@ -1,0 +1,3 @@
+- Processing scripts
+ - interpolate between recorded points
+ - sample uniformly, 400 points to generate states

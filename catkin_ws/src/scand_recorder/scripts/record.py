@@ -14,6 +14,7 @@ states = []
 
 
 def odom_callback(msg):
+    global last_odom
     last_odom = msg
 
 

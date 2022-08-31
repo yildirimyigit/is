@@ -1,3 +1,6 @@
 - Processing scripts
- - interpolate between recorded points
- - sample uniformly, 400 points to generate states
+ 1: process_raw_data 
+  - interpolate between recorded points
+  - sample uniformly, 400 points to generate states
+ 2: prepare_cnp_data
+  - prepare dx, dy, dg ... to be used in training
